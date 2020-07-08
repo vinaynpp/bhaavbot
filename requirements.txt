@@ -1,10 +1,6 @@
 .git
 .idea
-projectapp
-projectname
-rango
-db.sqlite3
-manage.py
-populate_rango.py
+todobot.py
+dbhelper.py
 requirements.txt
 python-3.8.3
