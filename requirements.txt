@@ -1,5 +1,4 @@
-.git
-.idea
+
 todobot.py
 dbhelper.py
 requirements.txt
